@@ -4,34 +4,10 @@ I am an energetic software developer with experience in developing robust code f
 
 Team player software developer with a can-do attitude, phenomenal time management skills, and a strong user focus. Has developed several web and mobile apps, including a parcel management system using Java.
 
-### Markdown
+### Job
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a hardworking young person with passion in software development. Be sure of the best software product that will satisfy your needs or your users needs. I am self motivated and believes in delivering the product in time.
 
-```markdown
-Syntax highlighted code block
+### Contacts
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/violet-developer/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ For contact, you can call/sms +254-701509646 or you can email violetnasambu2018@gmail.com.
