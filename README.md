@@ -1,8 +1,8 @@
 ## Welcome to violet-developer Page
 
-You can use the [editor on GitHub](https://github.com/violet-developer/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am an energetic software developer with experience in developing robust code for high-volume businesses. An enthusiastic team player and deep creative thinker.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Team player software developer with a can-do attitude, phenomenal time management skills, and a strong user focus. Has developed several web and mobile apps, including a parcel management system using Java.
 
 ### Markdown
 
